@@ -1,0 +1,12 @@
+<html>
+
+   <head>
+     <title> My page </title>
+   </head>
+   
+   <body>
+    This is new page i have created for practise..
+   </body>
+
+
+</html>
